@@ -5,7 +5,7 @@
 <br><br><b>Conclusion</b>: This work provides a framework for a promising alternative to traditional clinical gait analysis methods, adds to the growing body of knowledge regarding wearable technology analytical pipelines, and supports clinical development of at-home gait assessments, with the potential to improve the ease, frequency, and depth of patient monitoring.
 
 # Scripts used to generate manuscript results
-We have provided notebooks and data necessary to replicate the XGBoost model training and predictions using vGRF and digital insole summary parameters that are presented in paper figures 2, 3, and 4.
+We have provided notebooks and data necessary to replicate the XGBoost model training and predictions using vGRF and digital insole summary parameters that are presented in paper figures 2 and 4.
 
 # Citation
 Wipperman, Lin, Gayvert al. "Machine learning analysis of a digital insole versus clinical standard gait assessments for digital endpoint development". medRxiv. Oct 2022.
