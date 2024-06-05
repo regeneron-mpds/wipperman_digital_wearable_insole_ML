@@ -8,7 +8,7 @@
 We have provided notebooks and data necessary to replicate the XGBoost model training and predictions using vGRF and digital insole summary parameters that are presented in paper figures 2 and 4.
 
 # Citation
-Wipperman, Lin, Gayvert al. "Machine learning analysis of a digital insole versus clinical standard gait assessments for digital endpoint development". medRxiv. Oct 2022.
+Wipperman, Lin, Gayvert al. "Digital wearable insole-based identification of knee arthropathies and gait signatures using machine learning". Elife. 2024 Apr 30:13:e86132. doi: 10.7554/eLife.86132
 
 # License
 License can be found in the file LICENSE.
