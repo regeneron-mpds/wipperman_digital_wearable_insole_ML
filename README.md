@@ -8,7 +8,7 @@
 We have provided notebooks and data necessary to replicate the XGBoost model training and predictions using vGRF and digital insole summary parameters that are presented in paper figures 2 and 4.
 
 # Citation
-Wipperman, Lin, Gayvert al. "Digital wearable insole-based identification of knee arthropathies and gait signatures using machine learning". Elife. 2024 Apr 30:13:e86132. doi: 10.7554/eLife.86132
+<a href="https://elifesciences.org/articles/86132"> Wipperman, Lin, Gayvert al. "Digital wearable insole-based identification of knee arthropathies and gait signatures using machine learning". Elife. 2024 Apr 30:13:e86132. doi: 10.7554/eLife.86132 </a>
 
 # License
 License can be found in the file LICENSE.
